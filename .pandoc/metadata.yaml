@@ -1,0 +1,23 @@
+# $schema: https://codeberg.org/pandocult/pandoc-schema/raw/branch/main/pandoc.schema.json
+
+lang: da-DK
+# title: Curriculum Vitae
+# author: Hans Christian Saustrup
+creator: Hans Christian Saustrup
+keywords: [CV, Curriculum Vitae]
+description: Curriculum Vitae for Hans Christian Saustrup
+
+# colorlinks: true
+# links-as-notes: true
+
+# Paper
+papersize: A4
+margin-top: 2cm
+margin-bottom: 2cm
+margin-left: 2cm
+margin-right: 2cm
+
+# Same font as Github uses:
+mainfont: "NotoSans-Regular"
+monofont: "NotoMono-Regular"
+fontsize: 10pt
