@@ -1,6 +1,6 @@
 # $schema: https://codeberg.org/pandocult/pandoc-schema/raw/branch/main/pandoc.schema.json
 
-lang: da-DK
+lang: en-US 
 # title: Curriculum Vitae
 # author: Hans Christian Saustrup
 creator: Hans Christian Saustrup
