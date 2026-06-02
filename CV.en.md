@@ -99,7 +99,7 @@ Linux specialist with a solid background in software development and fondness fo
 
 - Board member, The Dolphins (*Delfinerne*) – Scout group in Skæring, The Danish Scouts Associations (DDS) (2025-)
 - Helper, Smukfest, Skanderborg (2025-)
-- Driver, Cars for Ukraine (*Biler til Ukraine*) (2023-)
+- Driver and tour leader, Cars for Ukraine ([Biler til Ukraine](https://www.bilertilukraine.dk/)) (2023-)
 
 ## Contact
 

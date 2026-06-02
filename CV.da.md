@@ -102,7 +102,7 @@ Kubernetes. Selvstændig siden 2008. Gift med Nina, og bor med deres to teenager
 
 - Bestyrelsesmedlem, Delfinerne – spejderne i Skæring, Det Danske Spejderkops (2025-)
 - Medhjælper, Smukfest, Skanderborg (2025-)
-- Chauffør, Biler til Ukraine (2023-)
+- Chauffør og turleder, [Biler til Ukraine](https://www.bilertilukraine.dk/) (2023-)
 
 ## Kontakt
 
