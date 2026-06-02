@@ -8,8 +8,8 @@ GENERATED := $(PDFS) $(SCALED)
 
 all: $(PDFS)
 
-%.pdf: %.md $(SCALED)
-	pandoc --pdf-engine=lualatex --metadata-file=.pandoc/metadata.yaml $< -o $@
+%.pdf: %.md $(SCALED) .pandoc/metadata.yaml
+	pandoc --pdf-engine=xelatex --metadata-file=.pandoc/metadata.yaml $< -o $@
 
 %-scaled.jpeg: %.jpeg
 	convert $< -scale 300x300 $@
