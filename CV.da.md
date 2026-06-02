@@ -8,7 +8,7 @@ Linux-specialist med solid baggrund i softwareudvikling og
 forkærlighed for automatisering, sikkerhed, cloud computing og
 Kubernetes. Selvstændig siden 2008. Gift med Nina, og bor med deres to teenagere Thomas og Natasha i Lystrup, nord for Aarhus.
 
-- Status: Til rådighed fra marts 2026
+- Status: Til rådighed fra september 2026
 - Nøgleord: Linux, Kubernetes, Terraform, Go, Ansible
 - Roller: Platformsingeniør, systemadministrator, tooling-udvikler
 - Område: Primært østjylland, men mødemulighed over hele landet
@@ -17,9 +17,17 @@ Kubernetes. Selvstændig siden 2008. Gift med Nina, og bor med deres to teenager
 
 ### Systematic A/S (2026)
 
+- **Rolle**: Kubernetes-konsulent, Library & Learning (Ekstern)
+- **Ansvarsområde**: Vejledning og implementering af forbedringer og 
+*best practices* på Kubernetes og Linux.
+- **Resultater**: Forbedringer til bygge-workflows og Kubernetes-deployments.
+- **Teknologier**: Kubernetes, Linux, Java
+
+### Systematic A/S (2026)
+
 - **Rolle**: Platformsingeniør, IKS, Group IT (Ekstern)
-- **Ansvarsområde**: Konfidentielt
-- **Resultater**: Konfidentielt
+- **Ansvarsområde**: Udvikling af intern Kubernetes service og tilhørende DNS server.
+- **Resultater**: Ny DNS-løsning implementeret, med understøttelse af dynamisk opdatering fra Cert-Manager og External DNS. Udvikling af Kubernetes-operator til synkronisering af secrets fra Kubernetes til ekstern vault-løsning.
 - **Teknologier**: Kubernetes, Go, Terraform, Terragrunt, Ansible, Linux
 
 ### Nuuday A/S (2022-2026)
@@ -93,7 +101,7 @@ Kubernetes. Selvstændig siden 2008. Gift med Nina, og bor med deres to teenager
 ## Frivilligt arbejde
 
 - Bestyrelsesmedlem, Delfinerne – spejderne i Skæring, Det Danske Spejderkops (2025-)
-- Medhjælper, Smukfest, Skanderbord (2025-)
+- Medhjælper, Smukfest, Skanderborg (2025-)
 - Chauffør, Biler til Ukraine (2023-)
 
 ## Kontakt

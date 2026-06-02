@@ -6,7 +6,7 @@
 
 Linux specialist with a solid background in software development and fondness for automation, security, cloud computing and Kubernetes. Self-employed since 2008. Married to Nina, and lives with their two teenagers Thomas and Natasha in Lystrup, just north of Aarhus.
 
-- Status: Available for contracts from March 2026
+- Status: Available for contracts from September 2026
 - Keywords: Linux, Kubernetes, Terraform, Go, Ansible
 - Roles: Platform Engineer, System Administrator, Tooling Developer
 - Area: Primarily Eastern Jutland, but able to meet across Denmark
@@ -15,10 +15,17 @@ Linux specialist with a solid background in software development and fondness fo
 
 ### Systematic A/S (2026)
 
+- **Role**: Kubernetes consultant, Library & Learning (External)
+- **Responsibilities**: Advising and implementing improvements based on Kubernetes and Linux best practices.
+- **Results**: Numerous improvements to workflows and deployments.
+- **Technologies**: Kubernetes, Linux, Java
+
+### Systematic A/S (2026)
+
 - **Role**: Platform Engineer, IKS, Group IT (External)
-- **Responsibilities**: Confidential
-- **Results**: Confidential
-- **Technologies**: Kubernetes, Go, Terraform, Terragrunt, Ansible, Linux
+- **Responsibilities**: Development of the internal Kubernetes offering and supporting DNS service.
+- **Results**: New DNS solution implemented, supporting dynamic updates from Cert-Manager and External DNS. Operator for synchronizing secrets with external vault designed and implemented.
+- **Technologies**: Kubernetes, Go, Terraform, Terragrunt, Ansible, Linux, KubeBuilder
 
 ### Nuuday A/S (2022-2026)
 
@@ -91,7 +98,7 @@ Linux specialist with a solid background in software development and fondness fo
 ## Voluntary work
 
 - Board member, The Dolphins (*Delfinerne*) – Scout group in Skæring, The Danish Scouts Associations (DDS) (2025-)
-- Helper, Smukfest, Skanderbord (2025-)
+- Helper, Smukfest, Skanderborg (2025-)
 - Driver, Cars for Ukraine (*Biler til Ukraine*) (2023-)
 
 ## Contact
