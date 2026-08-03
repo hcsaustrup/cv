@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Linux specialist with a solid background in software development and fondness for automation, security, cloud computing and Kubernetes. Self-employed since 2008. Married to Nina, and lives with their two teenagers Thomas and Natasha in Lystrup, just north of Aarhus.
+Linux specialist with a solid background in system administration and software development and a fondness for automation, security, cloud computing, Kubernetes, trees and doing things right. Self-employed since 2008. Married to Nina, and lives with their two teenagers Thomas and Natasha in Lystrup, just north of Aarhus.
 
 - Status: Available for contracts from September 2026
 - Keywords: Linux, Kubernetes, Terraform, Go, Ansible
@@ -17,8 +17,8 @@ Linux specialist with a solid background in software development and fondness fo
 
 - **Role**: Kubernetes consultant, Library & Learning (External)
 - **Responsibilities**: Advising and implementing improvements based on Kubernetes and Linux best practices.
-- **Results**: Numerous improvements to workflows and deployments.
-- **Technologies**: Kubernetes, Linux, Java
+- **Results**: Improvements to documentation, workflows and deployments.
+- **Technologies**: Kubernetes, Linux, Java, TeamCity, ZooKeeper, Solr
 
 ### Systematic A/S (2026)
 

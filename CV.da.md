@@ -4,9 +4,7 @@
 
 ## Introduktion
 
-Linux-specialist med solid baggrund i softwareudvikling og
-forkærlighed for automatisering, sikkerhed, cloud computing og
-Kubernetes. Selvstændig siden 2008. Gift med Nina, og bor med deres to teenagere Thomas og Natasha i Lystrup, nord for Aarhus.
+Linux-specialist med solid baggrund i softwareudvikling og forkærlighed for automatisering, sikkerhed, cloud computing, Kubernetes, træer og at gøre tingene rigtigt. Selvstændig siden 2008. Gift med Nina, og bor med deres to teenagere Thomas og Natasha i Lystrup, nord for Aarhus.
 
 - Status: Til rådighed fra september 2026
 - Nøgleord: Linux, Kubernetes, Terraform, Go, Ansible
@@ -18,17 +16,16 @@ Kubernetes. Selvstændig siden 2008. Gift med Nina, og bor med deres to teenager
 ### Systematic A/S (2026)
 
 - **Rolle**: Kubernetes-konsulent, Library & Learning (Ekstern)
-- **Ansvarsområde**: Vejledning og implementering af forbedringer og 
-*best practices* på Kubernetes og Linux.
-- **Resultater**: Forbedringer til bygge-workflows og Kubernetes-deployments.
-- **Teknologier**: Kubernetes, Linux, Java
+- **Ansvarsområde**: Vejledning og implementering af forbedringer og *best practices* på Kubernetes og Linux.
+- **Resultater**: Forbedringer til bygge-workflows, Kubernetes-deployments og dokumentation.
+- **Teknologier**: Kubernetes, Linux, Java, TeamCity, ZooKeeper, Solr
 
 ### Systematic A/S (2026)
 
 - **Rolle**: Platformsingeniør, IKS, Group IT (Ekstern)
 - **Ansvarsområde**: Udvikling af intern Kubernetes service og tilhørende DNS server.
 - **Resultater**: Ny DNS-løsning implementeret, med understøttelse af dynamisk opdatering fra Cert-Manager og External DNS. Udvikling af Kubernetes-operator til synkronisering af secrets fra Kubernetes til ekstern vault-løsning.
-- **Teknologier**: Kubernetes, Go, Terraform, Terragrunt, Ansible, Linux
+- **Teknologier**: Kubernetes, Go, Terraform, Terragrunt, Ansible, Linux, KubeBuilder
 
 ### Nuuday A/S (2022-2026)
 
