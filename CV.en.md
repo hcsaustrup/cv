@@ -4,7 +4,11 @@
 
 ## Introduction
 
-Linux specialist with a solid background in system administration and software development and a fondness for automation, security, cloud computing, Kubernetes, trees and doing things right. Self-employed since 2008. Married to Nina, and lives with their two teenagers Thomas and Natasha in Lystrup, just north of Aarhus.
+Platform Engineer and Linux Specialist with a solid background in software development and system administration. Currently focused on building multi tenant platforms with Kubernetes and Terraform, either on-premise or in cloud with providers like Microsoft Azure or Amazon Web Services.
+
+Well versed in the Kubernetes/CloudNative ecosystem and experienced in configuration and deployment of many common components, including CI/CD, certificate management and observability. Holds more than three decades of experience in running Linux systems and hosting various high traffic services like web, e-mail, DNS etc. Has a fondness for automation, security, trees and doing things right.
+
+Self-employed since 2008. Married to Nina, and lives with their two teenagers Thomas and Natasha in Lystrup, just north of Aarhus.
 
 - Status: Available for contracts from September 2026
 - Keywords: Linux, Kubernetes, Terraform, Go, Ansible
